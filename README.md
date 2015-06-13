@@ -1,4 +1,4 @@
-# GameplayKitTutorials
+# ![](gameplaykit.png) GameplayKitTutorials
 
 ## 官方相关资料
 
