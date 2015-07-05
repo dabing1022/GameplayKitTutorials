@@ -8,6 +8,10 @@
 -  [FourInARowSourceCode](https://developer.apple.com/library/prerelease/ios/samplecode/FourInARow/Introduction/Intro.html)
 -  [DemoBotsSourceCode](https://developer.apple.com/library/prerelease/ios/samplecode/DemoBots/Introduction/Intro.html)
 
+## 博客
+
+- [swift-studies](http://www.swift-studies.com/blog/?category=GameplayKit)
+
 ## 中文译本
 
 - [GameplayKit指南](./GameplayKit_GuideCN)
